@@ -1,0 +1,11 @@
+autopep8
+matplotlib
+nibabel
+notebook
+numpy
+pandas
+scipy
+scikit-learn
+torch == 1.13.1
+torchio
+tqdm
